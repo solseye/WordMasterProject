@@ -1,6 +1,7 @@
 # WordMasterProject
 <br/>
 ## 단어 추가
+<br/>
 <img width="464" alt="1 단어 추가" src="https://github.com/solseye/WordMasterProject/assets/130718221/fe4fcc05-77de-49a3-b7de-4cdb7200127a">
 <br/>
 ## 모든 단어 보기
